@@ -2,12 +2,12 @@
 
 # Vue.js + Spring Framework
 
-- 진행자: **박성진** `naturemobility`
+- 진행자: **박성진** `develop`
 
 ## JavaScript Code Style
 
-- ECMAScript 6+ 스펙 사용  
-  1. var 변수는 사용 안하고, let과 const로 Block Scope 형태로 코딩.  
+- ECMAScript 6+ 스펙 사용
+  1. var 변수는 사용 안하고, let과 const로 Block Scope 형태로 코딩.
   2. Airbnb JavaScript Style을 필수로 따름
 
 ## Vue.js
@@ -122,6 +122,6 @@ new Vue({
 위 코드는 get data 버튼을 클릭했을 때 사용자 정보를 받아오는 코드입니다.  
 실행하면 사용자 정보가 브라우저 개발자 도구의 콘솔에 출력됩니다.
 
+## Spring Framework + Vue.js 적용 화면
 
-## Nature Mobility Vue.js 적용 화면
 ![완성본](https://k.kakaocdn.net/dn/bAYu5L/btqtYtHDg30/3JY8V8uPbCpPo3dm0ZdXp0/img.png)
